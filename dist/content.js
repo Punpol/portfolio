@@ -1,7 +1,7 @@
 // Add real photos to dist/images/ and put their relative paths here.
 // Empty links stay visibly unavailable instead of pointing to fake profiles.
 window.portfolioContent = {
-  portrait: '',
+  portrait: 'images/punjapol-profile.png',
   email: '', github: '', linkedin: '', resume: '',
   projects: {
     farm: {
